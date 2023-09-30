@@ -1,8 +1,8 @@
 # DSTSS
 The extend version and all codes of the paper, Distributed Semantic Trajectory Similarity Search.
 
-# Paper of Extend Version
-For a better view of the extend version of the paper, please download (click the "Download file" button at the right top of the web page) the pdf at https://anonymous.4open.science/r/DSTSS/DSTSS-extend-ver-SIGMOD24-Final.pdf.
+# Paper of Complete Version
+For a better view of the complete version of the paper, please download the pdf at [DSTSS-complete-version](https://github.com/ZJU-DAILY/DSTSS/blob/main/DSTSS-complete-version.pdf).
 
 
 ## Code Introduction
